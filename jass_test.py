@@ -35,7 +35,7 @@ def load_resources():
         # Adjust this path for the deployment environment in the Ministry of Justice
         # For demonstration, keeping the original path but it should be configured appropriately.
         # Make sure the vector store directory exists and contains FAISS files.
-        vector_store_path = "/Users/witchaponkasettrakarn/Desktop/2025/JASS_Project/vector_store1"
+        vector_store_path = ""
         if not os.path.exists(vector_store_path):
             st.error(f"Vector store not found at: {vector_store_path}. Please ensure it is available.")
             st.stop()
