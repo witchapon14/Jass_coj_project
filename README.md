@@ -38,8 +38,8 @@ Follow these instructions to set up and run the project on your local machine.
 
 1.  **Clone the Repository:**
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone [(https://github.com/witchapon14/Jass_coj_project.git)]
+    cd Jass_coj_project
     ```
 
 2.  **Create a Virtual Environment:**
