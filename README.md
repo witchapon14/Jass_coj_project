@@ -2,7 +2,7 @@
 
 ## ⚖️ Project Overview
 
-This project is an intelligent chatbot application designed for the Ministry of Justice of Thailand (สำนักงานยุติธรรม). It serves as an AI-powered assistant to answer questions based on a specialized knowledge base. The application is built using Python with Streamlit for the user interface and leverages a Retrieval-Augmented Generation (RAG) architecture for providing accurate and context-aware responses in Thai.
+This project is an intelligent chatbot application designed for Court of Justice(สำนักงานยุติธรรม). It serves as an AI-powered assistant to answer questions based on a specialized knowledge base. The application is built using Python with Streamlit for the user interface and leverages a Retrieval-Augmented Generation (RAG) architecture for providing accurate and context-aware responses in Thai.
 
 The core of the chatbot relies on a local vector store for retrieving relevant information and a high-speed Large Language Model (LLM) via the Groq API to generate human-like, formal responses.
 
