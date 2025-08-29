@@ -91,3 +91,5 @@ The project includes a `Dockerfile` for easy containerization.
            jass-chatbot
     ```
     The application will be accessible at `http://localhost:8501`.
+
+Picture
